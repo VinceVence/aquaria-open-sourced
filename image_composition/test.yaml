@@ -1,0 +1,26 @@
+dataset:
+  dataset_synthetic:
+    input:
+      backgrounds:
+        # processed raw images
+    foregrounds:
+      supercategory:
+        category:
+          # processed foreground images
+    output:
+      images:
+        # synthetically generated images
+      masks:
+        # masks of the generated images
+      coco_instance.json: # coco annotations
+      dataset_info.json: # dataset information
+      mask_definitions: # mask metadata
+  python:
+    coco_json_utils.py
+    image_composition.py
+
+
+
+
+
+    

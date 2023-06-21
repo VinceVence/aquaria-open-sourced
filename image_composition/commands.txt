@@ -1,0 +1,5 @@
+Generate images:
+py ./python/image_composition.py --input_dir ./datasets/dataset_synthetic/input --output_dir ./datasets/dataset_synthetic/output --count 1000 --width 512 --height 512
+
+Coco JSON Utils
+py ./python/coco_json_utils.py -md ./datasets/dataset_synthetic/train/mask_definitions.json -di ./datasets/dataset_synthetic/train/dataset_info.json

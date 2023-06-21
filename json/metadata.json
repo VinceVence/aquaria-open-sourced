@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "name": "Fish Vision 🐟",
+            "description": "The Aquaria AI as a Service offers an Image Classification CNN model that is capable of accurately identifying and classifying four different fish species commonly found in the Philippines: Perch, Tarpon, Tilapia, and Catfish. The model has been trained on a large dataset of high-quality synthetic images of these fish species, and it uses advanced machine learning algorithms to recognize the unique features and characteristics of each species. With its high level of accuracy and reliability, the Aquaria Image Classification CNN model is a valuable tool for fisheries management, conservation efforts, and scientific research."
+        },
+        {
+            "name": "Aquatic Plants 🌿",
+            "description": "Aquaria AI as a Service offers an Image Classification CNN model that can accurately identify and classify various aquatic plants commonly found in marine ecosystems. This model has been trained on a large dataset of high-quality images of different aquatic plant species, utilizing advanced machine learning algorithms to recognize the unique features and characteristics of each species. The Aquaria Image Classification CNN model provides accurate and reliable results, making it an essential tool for researchers, environmentalists, and aquatic biologists to identify and monitor the diversity and abundance of aquatic plant species in marine ecosystems."
+        },
+        {
+            "name": "Fishing gears 🎣",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel faucibus nunc. Quisque suscipit, magna a sagittis feugiat, mauris mauris feugiat justo, non euismod lectus nibh eu mi. Nullam vestibulum dolor vel ex feugiat, sit amet ultrices tellus dignissim. Suspendisse vel justo ut velit imperdiet dapibus eu ac nunc. Nullam feugiat, turpis id dapibus finibus, ex ante auctor arcu, sed volutpat nisi nibh non nunc. Donec blandit arcu eget sem consequat, vel imperdiet lacus pretium. Sed vel turpis risus. Nunc luctus enim risus, vel scelerisque elit tempus ut. In eget mauris in ante pharetra ullamcorper. Cras et risus at elit rhoncus pharetra eu eget turpis. In maximus massa eget tellus elementum interdum. Etiam ac velit vitae velit bibendum auctor. Nam sed est nisi."
+        },
+        {
+            "name": "Water Garbage 🚮",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel faucibus nunc. Quisque suscipit, magna a sagittis feugiat, mauris mauris feugiat justo, non euismod lectus nibh eu mi. Nullam vestibulum dolor vel ex feugiat, sit amet ultrices tellus dignissim. Suspendisse vel justo ut velit imperdiet dapibus eu ac nunc. Nullam feugiat, turpis id dapibus finibus, ex ante auctor arcu, sed volutpat nisi nibh non nunc. Donec blandit arcu eget sem consequat, vel imperdiet lacus pretium. Sed vel turpis risus. Nunc luctus enim risus, vel scelerisque elit tempus ut. In eget mauris in ante pharetra ullamcorper. Cras et risus at elit rhoncus pharetra eu eget turpis. In maximus massa eget tellus elementum interdum. Etiam ac velit vitae velit bibendum auctor. Nam sed est nisi."
+        },
+        {
+            "name": "Fishing Vessels 🛥️",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel faucibus nunc. Quisque suscipit, magna a sagittis feugiat, mauris mauris feugiat justo, non euismod lectus nibh eu mi. Nullam vestibulum dolor vel ex feugiat, sit amet ultrices tellus dignissim. Suspendisse vel justo ut velit imperdiet dapibus eu ac nunc. Nullam feugiat, turpis id dapibus finibus, ex ante auctor arcu, sed volutpat nisi nibh non nunc. Donec blandit arcu eget sem consequat, vel imperdiet lacus pretium. Sed vel turpis risus. Nunc luctus enim risus, vel scelerisque elit tempus ut. In eget mauris in ante pharetra ullamcorper. Cras et risus at elit rhoncus pharetra eu eget turpis. In maximus massa eget tellus elementum interdum. Etiam ac velit vitae velit bibendum auctor. Nam sed est nisi."
+        },
+        {
+            "name": "General Fish species 🦈",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel faucibus nunc. Quisque suscipit, magna a sagittis feugiat, mauris mauris feugiat justo, non euismod lectus nibh eu mi. Nullam vestibulum dolor vel ex feugiat, sit amet ultrices tellus dignissim. Suspendisse vel justo ut velit imperdiet dapibus eu ac nunc. Nullam feugiat, turpis id dapibus finibus, ex ante auctor arcu, sed volutpat nisi nibh non nunc. Donec blandit arcu eget sem consequat, vel imperdiet lacus pretium. Sed vel turpis risus. Nunc luctus enim risus, vel scelerisque elit tempus ut. In eget mauris in ante pharetra ullamcorper. Cras et risus at elit rhoncus pharetra eu eget turpis. In maximus massa eget tellus elementum interdum. Etiam ac velit vitae velit bibendum auctor. Nam sed est nisi."
+        },
+        {
+            "name": "Sentiment Analysis 😐",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel faucibus nunc. Quisque suscipit, magna a sagittis feugiat, mauris mauris feugiat justo, non euismod lectus nibh eu mi. Nullam vestibulum dolor vel ex feugiat, sit amet ultrices tellus dignissim. Suspendisse vel justo ut velit imperdiet dapibus eu ac nunc. Nullam feugiat, turpis id dapibus finibus, ex ante auctor arcu, sed volutpat nisi nibh non nunc. Donec blandit arcu eget sem consequat, vel imperdiet lacus pretium. Sed vel turpis risus. Nunc luctus enim risus, vel scelerisque elit tempus ut. In eget mauris in ante pharetra ullamcorper. Cras et risus at elit rhoncus pharetra eu eget turpis. In maximus massa eget tellus elementum interdum. Etiam ac velit vitae velit bibendum auctor. Nam sed est nisi."
+        },
+        {
+            "name": "Inquiry Module (ChatGPT) 🙋",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel faucibus nunc. Quisque suscipit, magna a sagittis feugiat, mauris mauris feugiat justo, non euismod lectus nibh eu mi. Nullam vestibulum dolor vel ex feugiat, sit amet ultrices tellus dignissim. Suspendisse vel justo ut velit imperdiet dapibus eu ac nunc. Nullam feugiat, turpis id dapibus finibus, ex ante auctor arcu, sed volutpat nisi nibh non nunc. Donec blandit arcu eget sem consequat, vel imperdiet lacus pretium. Sed vel turpis risus. Nunc luctus enim risus, vel scelerisque elit tempus ut. In eget mauris in ante pharetra ullamcorper. Cras et risus at elit rhoncus pharetra eu eget turpis. In maximus massa eget tellus elementum interdum. Etiam ac velit vitae velit bibendum auctor. Nam sed est nisi."
+        },
+        {
+            "name": "Synthetica 🖼️",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel faucibus nunc. Quisque suscipit, magna a sagittis feugiat, mauris mauris feugiat justo, non euismod lectus nibh eu mi. Nullam vestibulum dolor vel ex feugiat, sit amet ultrices tellus dignissim. Suspendisse vel justo ut velit imperdiet dapibus eu ac nunc. Nullam feugiat, turpis id dapibus finibus, ex ante auctor arcu, sed volutpat nisi nibh non nunc. Donec blandit arcu eget sem consequat, vel imperdiet lacus pretium. Sed vel turpis risus. Nunc luctus enim risus, vel scelerisque elit tempus ut. In eget mauris in ante pharetra ullamcorper. Cras et risus at elit rhoncus pharetra eu eget turpis. In maximus massa eget tellus elementum interdum. Etiam ac velit vitae velit bibendum auctor. Nam sed est nisi."
+        }
+    ]
+}
